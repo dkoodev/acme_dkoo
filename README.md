@@ -2,7 +2,7 @@
 This is an electron application client for the Animated Codes Made Easy API.
 https://api.acme.codes
 
-### Reference: Utilized this boilerplate for electron/react:
+### Utilized this boilerplate for electron/react:
 [enhanced-electron-react-boilerplate](https://github.com/pbarbiero/enhanced-electron-react-boilerplate)
 
 ### To get started:
